@@ -5,4 +5,4 @@
 
 <img src="https://github.com/tejasbana/DCGANS/blob/main/DCgans.png" width="600px">
 
-<p>For discriminator, i uses similar architecture as the baselines contractive path.</p>
+<p>For discriminator, I used similar architecture as the baselines contractive path.</p>
